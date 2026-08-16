@@ -82,9 +82,9 @@ Discord: **eldimas**
 Demorei meses pra fazer esse site, e aprender como faze-lo corretamente. Qualquer feedback caso você tenha, fique a vontade para comentar.
 
 ### Imagens de ALGUMAS telas<br/>
-<img width="1520" height="526" alt="image" src="https://github.com/user-attachments/assets/9850e579-d38e-4ffe-b89e-92722df6000f" /><br/><br/>
-<img width="900" height="1018" alt="image" src="https://github.com/user-attachments/assets/5b8427ab-633c-47e2-b7a2-6ea0701bd326" /><br/><br/>
-<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/9d1ba908-3d5e-4e3d-bcbe-63c10bbc7e5f" /><br/><br/>
-<img width="521" height="501" alt="image" src="https://github.com/user-attachments/assets/797323c9-63da-4e37-8548-a5e24f3ed3be" /><br/><br/>
-<img width="860" height="429" alt="image" src="https://github.com/user-attachments/assets/0603957b-0bd2-4a9b-92bf-dc42c77ac8f2" /><br/><br/>
-<img width="1280" height="546" alt="image" src="https://github.com/user-attachments/assets/0bec1405-9e3f-4038-89c6-61b00098f112" /><br/><br/>
+<img width="470" height="468" alt="image" src="https://github.com/user-attachments/assets/6c0f7034-6b5b-430a-b728-dd06ae59caa2" /><br/><br/>
+<img width="1920" height="975" alt="image" src="https://github.com/user-attachments/assets/ab7f6c4a-3106-4da9-8db9-a93ce9eedf66" /><br/><br/>
+<img width="1920" height="843" alt="image" src="https://github.com/user-attachments/assets/3f4d3a8e-1c19-4919-82d0-48773732eb61" /><br/><br/>
+<img width="430" height="866" alt="image" src="https://github.com/user-attachments/assets/47ea0367-3efb-4d71-a352-d456a703128e" /><br/><br/>
+<img width="860" height="566" alt="image" src="https://github.com/user-attachments/assets/3bf34b1d-813c-45e7-84c0-acc8d0cd72eb" /><br/><br/>
+<img width="860" height="547" alt="image" src="https://github.com/user-attachments/assets/dac2cec0-d573-43ea-8e9f-9f2054a5d039" />
